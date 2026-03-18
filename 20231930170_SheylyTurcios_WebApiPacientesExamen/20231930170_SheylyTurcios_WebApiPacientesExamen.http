@@ -1,0 +1,6 @@
+@_20231930170_SheylyTurcios_WebApiPacientesExamen_HostAddress = http://localhost:5193
+
+GET {{_20231930170_SheylyTurcios_WebApiPacientesExamen_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
